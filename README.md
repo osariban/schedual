@@ -12,7 +12,7 @@
 
 
 # 使い方
-- 作成したい月のhtmlを作成する
+- 管理した月のhtmlを生成
 ```zsh
 $ python3 generate_calendar.py -y 2025 -m 5
 ```
